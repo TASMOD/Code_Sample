@@ -1,0 +1,8 @@
+cmake
+numpy
+matplotlib
+tensorflow
+bokeh
+keras
+tqdm
+sklearn
